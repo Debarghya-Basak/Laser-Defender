@@ -46,8 +46,6 @@ public class RocketController : MonoBehaviour
             rocketRigidBody.drag = 5f;  
             burnEffectRenderer.sprite = rocketBurnEffectLowPower;
         }
-            
-            
 
     }
 }
