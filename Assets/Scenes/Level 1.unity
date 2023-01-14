@@ -1031,6 +1031,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1f75babf1c6a954388b2d850bbbd72a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cloudMoveSpeed: 0.6
+  earthMoveSpeed: 0.5
   cloudBackground: {fileID: 689445430}
   cloudBackgroundUp: {fileID: 2039158687}
   cloudBackgroundDown: {fileID: 272204062}
